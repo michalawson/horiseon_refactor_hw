@@ -1,4 +1,4 @@
-# horiseon_refactor_hw
+# styling-is-the-sheet
 In this refactor project I have cleaned up the html code, consolidated css style element, verified links and fixed broken ones.
 
 In addition, I made sure to add "Error" comments for each image in the webpage along with a number.
